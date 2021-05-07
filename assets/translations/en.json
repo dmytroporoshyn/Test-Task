@@ -1,0 +1,14 @@
+{
+  "name" : "Name",
+  "address" : "Street, house no.",
+  "zipcode" : "Zipcode",
+  "city" : "City",
+  "preview_order" : "Preview Order",
+  "enter_address" : "Enter address",
+  "name_error" : "Enter name",
+  "address_error" : "Enter street, house no.",
+  "zipcode_error" : "Enter zipcode",
+  "city_error" : "Enter city",
+  "address_added_successfully" : "Address added successfully",
+  "error_adding_address" : "Error adding address"
+}
