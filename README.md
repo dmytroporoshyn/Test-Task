@@ -7,6 +7,14 @@
 * Stacked pattern
 * Json serialization for fromMap and toMap functions
 
+## Screenshots
+
+<img height="400" src="https://raw.githubusercontent.com/dmytroporoshyn/Test-Task/master/screenshots/screen1.png">  
+<img height="400" src="https://raw.githubusercontent.com/dmytroporoshyn/Test-Task/master/screenshots/screen2.png"> 
+<img height="400" src="https://raw.githubusercontent.com/dmytroporoshyn/Test-Task/master/screenshots/screen3.png">
+<img height="400" src="https://raw.githubusercontent.com/dmytroporoshyn/Test-Task/master/screenshots/screen4.png">
+
+
 ## Project Structure
 
 * Project used Stacked pattern, blocs located in `bloc` package
@@ -24,6 +32,7 @@
 
 ## Setup 
 
+- install apk, file locate in `apk` folder
 - run app using `flutter run` on your plugged phone/Android Emulator
 
 ## Plugins and Packages used
